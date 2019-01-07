@@ -3,7 +3,7 @@ layout: post
 title: Welcome
 subtitle: "Feel home!"
 date: 2019-01-07 15:15:00
-categories: [blog, blogging]
+categories: [blogging]
 ---
 
 # Hello, World!
