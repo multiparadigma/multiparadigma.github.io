@@ -25,3 +25,4 @@ exclude: ["README.md", "README.html", "vendor"]
 # Build settings
 highlighter: null
 markdown: kramdown
+permalink: /:title
