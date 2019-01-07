@@ -1,6 +1,6 @@
 # Site settings
 title: multiparadigma
-description: >
+description:
   Programação para iniciantes
 
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -13,7 +13,7 @@ author:
   # twitter:
   # disqus: your_disqus_forum_shortname
 
-# google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-131857273-1'
 
 # Syntax highlighting
 highlightstyle: ''
