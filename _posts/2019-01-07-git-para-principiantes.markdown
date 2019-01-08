@@ -71,19 +71,17 @@ Alguns comandos usados em várias situações:
 
 | Comando        | O que faz |
 |----------------|-----------|
-| ----------------------------------------------------|
+| ---------------|-----------|
 | clone          | Clone a repository into a new directory |
 | init           | Create an empty Git repository or reinitialize an existing one |
 
 `
-
 <dl>
     <dt>clone</dt>
     <dd>Clone a repository into a new directory</dd>
     <dt>init</dt>
     <dd>Create an empty Git repository or reinitialize an existing one</dd>
 </dl>
-
 `
 
 ### Trabalhando numa mudança atual
