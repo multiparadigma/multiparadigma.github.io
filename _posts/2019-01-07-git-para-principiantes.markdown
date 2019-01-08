@@ -69,6 +69,7 @@ Alguns comandos usados em várias situações:
 | rm 	     | Remove files from the working tree and from the index |
 
 #### Examine o histórico e o estado 
+
 | Comando | o que faz |
 |----------------|---------------|
 | bisect         | Use binary search to find the commit that introduced a bug |
@@ -78,6 +79,7 @@ Alguns comandos usados em várias situações:
 | status        | Show the working tree status |
 
 #### grow, mark and tweak your common history
+
 | Comando | O que faz |
 |----------------|---------------|
 | branch      | List, create, or delete branches |
