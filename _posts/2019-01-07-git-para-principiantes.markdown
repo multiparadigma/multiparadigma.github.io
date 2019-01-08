@@ -80,7 +80,7 @@ Alguns comandos usados em várias situações:
 
 
 | Comando | O que faz |
-| --- | --- |
+| :--- | :--- |
 | clone | Clone a repository into a new directory |
 | init  | Create an empty Git repository or reinitialize an existing one |
 
@@ -91,7 +91,7 @@ Alguns comandos usados em várias situações:
 
 
 | Comando | O que faz |
-|---|---|
+|:---|:---|
 | add | Add file contents to the index |
 | mv  | Move or rename a file, a directory, or a symlink |
 | reset | Reset current HEAD to the specified state |
@@ -104,7 +104,7 @@ Alguns comandos usados em várias situações:
 
 
 | Comando        | o que faz |
-|---|---|
+|:---|:---|
 | bisect | Use binary search to find the commit that introduced a bug |
 | grep | Print lines matching a pattern |
 | log | Show commit logs |
@@ -134,7 +134,7 @@ Alguns comandos usados em várias situações:
 
 
 | Comando        | O que faz |
-|----------------|-----------|
+|:---|:---|
 | fetch          | Download objects and refs from another repository |
 | pull           | Fetch from and integrate with another repository or a local branch |
 | push           | Update remote refs along with associated objects |
