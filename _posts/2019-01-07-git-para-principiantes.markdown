@@ -38,7 +38,9 @@ No início da sua jornada, é preciso ter em mente que:
 
 Com o seu interpretador de comando aberto, a sintaxe básica para usar uma linha de comando, no nosso caso, é a seguinte:
 
-`PS C:\Users\username> git`
+`
+PS C:\Users\username> git
+`
 
 A resposta do interpretador será parecida com a seguinte:
 
@@ -62,27 +64,19 @@ A resposta do interpretador será parecida com a seguinte:
 
 Por exemplo:
 
-`git --version`
+`
+git --version
+`
 
 Alguns comandos usados em várias situações:
 
 ### Iniciando uma área de trabalho 
 
-
-| Comando        | O que faz |
-|----------------|-----------|
-| ---------------|-----------|
+| Comando | O que faz |
+| ------- | --------- |
 | clone          | Clone a repository into a new directory |
 | init           | Create an empty Git repository or reinitialize an existing one |
 
-`
-<dl>
-    <dt>clone</dt>
-    <dd>Clone a repository into a new directory</dd>
-    <dt>init</dt>
-    <dd>Create an empty Git repository or reinitialize an existing one</dd>
-</dl>
-`
 
 ### Trabalhando numa mudança atual
 
