@@ -71,22 +71,22 @@ Alguns comandos usados em várias situações:
 #### Examine o histórico e o estado 
 | Comando | o que faz |
 |----------------|---------------|
-| bisect        | Use binary search to find the commit that introduced a bug        |
-| grep          | Print lines matching a pattern   |
-| log             | Show commit logs           |
-| show         | Show various types of objects              |
-| status        | Show the working tree status               |
+| bisect         | Use binary search to find the commit that introduced a bug |
+| grep          | Print lines matching a pattern |
+| log             | Show commit logs |
+| show         | Show various types of objects |
+| status        | Show the working tree status |
 
 #### grow, mark and tweak your common history
 | Comando | O que faz |
 |----------------|---------------|
 | branch      | List, create, or delete branches |
-| checkout   | Switch branches or restore working tree files |
+| checkout    | Switch branches or restore working tree files |
 | commit      | Record changes to the repository |
-| diff              | Show changes between commits, commit and working tree, etc |
+| diff        | Show changes between commits, commit and working tree, etc |
 | merge        | Join two or more development histories together |
 | rebase       | Reaplly commits on top of another base tip |
-| tag             | Create, list, delete or verify a tag object signed with GPG |
+| tag          | Create, list, delete or verify a tag object signed with GPG |
 
 #### Colabore (Veja também: git help workflows)
 
