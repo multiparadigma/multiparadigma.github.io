@@ -44,11 +44,9 @@ No início da sua jornada, é preciso ter em mente que:
 
 ### Um pouco de sintaxe
 
-Com o seu interpretador de comando aberto, a sintaxe básica para usar uma linha de comando, no nosso caso, é a seguinte:
+Com o seu interpretador de comando aberto, a sintaxe básica para usar uma linha de comando em nosso caso, é a seguinte:
 
-`
-PS C:\Users\username> git
-`
+` PS C:\Users\username> git `
 
 A resposta do interpretador será parecida com a seguinte:
 
@@ -72,12 +70,14 @@ A resposta do interpretador será parecida com a seguinte:
 
 Por exemplo:
 
-` git --version `,
-` git --help `,
+` git --version `
+` git --help `
 
 Alguns comandos usados em várias situações:
 
 ### Iniciando uma área de trabalho 
+
+
 
 | Comando | O que faz |
 | ------- | --------- |
@@ -85,7 +85,9 @@ Alguns comandos usados em várias situações:
 | init           | Create an empty Git repository or reinitialize an existing one |
 
 
+
 ### Trabalhando numa mudança atual
+
 
 
 | Comando        | O que faz |
@@ -95,7 +97,10 @@ Alguns comandos usados em várias situações:
 | reset          | Reset current HEAD to the specified state |
 | rm 	           | Remove files from the working tree and from the index |
 
+
+
 ### Examine o histórico e o estado 
+
 
 
 | Comando        | o que faz |
@@ -107,7 +112,9 @@ Alguns comandos usados em várias situações:
 | status         | Show the working tree status |
 
 
+
 ### grow, mark and tweak your common history
+
 
 
 | Comando        | O que faz |
@@ -121,7 +128,9 @@ Alguns comandos usados em várias situações:
 | tag            | Create, list, delete or verify a tag object signed with GPG |
 
 
+
 ### Colabore (Veja também: git help workflows)
+
 
 
 | Comando        | O que faz |
@@ -131,7 +140,10 @@ Alguns comandos usados em várias situações:
 | push           | Update remote refs along with associated objects |
 
 
+
 ### Detalhes adicionais
+
+
 
 `git help -a` e `git help -g`' retornarão subcomandos disponíveis e alguns guias conceituais. Veja também `git help <comando>` ou `git help <conceito>` para ler sobre um específico subcomando ou conceito.
 
@@ -139,4 +151,3 @@ Alguns comandos usados em várias situações:
 
 ***Obs***.: Criar tabelas com ***Markdown*** é a coisa mais non-aesthetic que eu já fiz. Enfim, futuras edições serão feitas, bem como a tradução do conteúdo em inglês. 
 
-`
