@@ -44,21 +44,21 @@ A resposta do interpretador será parecida com a seguinte:
 
 #### Como usar:
 
-`[--version]`
-`[--help]`
-`[-C <path>]`
-`[-c <name>=<value>]`
-`[--exec-path[=<path>]]`
-`[--html-path]`
-`[--man-path]`
-`[--info-path]`
-`[-p | --paginate | -P | --no-pager]`
-`[--no-replace-objects]`
-`[--bare]`
-`[--git-dir=<path>]`
-`[--work-tree=<path>]`
-`[--namespace=<name>]`
-`<command> [<args>]`
+- `[--version]`
+- `[--help]`
+- `[-C <path>]`
+- `[-c <name>=<value>]`
+- `[--exec-path[=<path>]]`
+- `[--html-path]`
+- `[--man-path]`
+- `[--info-path]`
+- `[-p | --paginate | -P | --no-pager]`
+- `[--no-replace-objects]`
+- `[--bare]`
+- `[--git-dir=<path>]`
+- `[--work-tree=<path>]`
+- `[--namespace=<name>]`
+- `<command> [<args>]`
 
 Por exemplo:
 
@@ -118,6 +118,6 @@ Alguns comandos usados em várias situações:
 
 
 
-***Obs***.: Futuras edições serão feitas, bem como a tradução do conteúdo em inglês.
+***Obs***.: Criar tabelas com ***Markdown*** é a coisa mais non-aesthetic que eu já fiz. Enfim, futuras edições serão feitas, bem como a tradução do conteúdo em inglês.
 
 `
