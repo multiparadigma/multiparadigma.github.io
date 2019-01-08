@@ -52,14 +52,14 @@ A resposta do interpretador será parecida com a seguinte:
 
 Alguns comandos usados em várias situações:
 
-#### Iniciando uma área de trabalho 
+### Iniciando uma área de trabalho 
 
 | Comando | O que faz |
 |----------------|---------------|
 | clone         | Clone a repository into a new directory |
 | init             | Create an empty Git repository or reinitialize an existing one |
 
-#### Trabalhando numa mudança atual
+### Trabalhando numa mudança atual
 
 | Comando | O que faz |
 |----------------|---------------|
@@ -68,7 +68,7 @@ Alguns comandos usados em várias situações:
 | reset         | Reset current HEAD to the specified state |
 | rm 	     | Remove files from the working tree and from the index |
 
-#### Examine o histórico e o estado 
+### Examine o histórico e o estado 
 
 | Comando | o que faz |
 |----------------|---------------|
@@ -78,7 +78,7 @@ Alguns comandos usados em várias situações:
 | show         | Show various types of objects |
 | status        | Show the working tree status |
 
-#### grow, mark and tweak your common history
+### grow, mark and tweak your common history
 
 | Comando | O que faz |
 |----------------|---------------|
@@ -90,7 +90,7 @@ Alguns comandos usados em várias situações:
 | rebase       | Reaplly commits on top of another base tip |
 | tag          | Create, list, delete or verify a tag object signed with GPG |
 
-#### Colabore (Veja também: git help workflows)
+### Colabore (Veja também: git help workflows)
 
 | Comando | O que faz |
 |----------------|---------------|
@@ -98,7 +98,7 @@ Alguns comandos usados em várias situações:
 | pull            | Fetch from and integrate with another repository or a local branch |
 | push          | Update remote refs along with associated objects |
 
-#### Detalhes adicionais
+### Detalhes adicionais
 
 `git help -a` e `git help -g`' retornarão subcomandos disponíveis e alguns guias conceituais. Veja também `git help <comando>` ou `git help <conceito>` para ler sobre um específico subcomando ou conceito.
 
