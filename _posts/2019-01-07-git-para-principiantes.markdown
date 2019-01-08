@@ -116,9 +116,9 @@ Alguns comandos usados em várias situações:
 ### grow, mark and tweak your common history
 
 
-| Nada aqui | viu?|
+
 | Comando        | O que faz |
-|----------------|-----------|
+|:---            |:--- |
 | branch         | List, create, or delete branches |
 | checkout       | Switch branches or restore working tree files |
 | commit         | Record changes to the repository |
