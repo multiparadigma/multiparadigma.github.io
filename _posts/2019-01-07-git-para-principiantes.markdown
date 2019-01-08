@@ -38,17 +38,31 @@ No início da sua jornada, é preciso ter em mente que:
 
 Com o seu interpretador de comando aberto, a sintaxe básica para usar uma linha de comando, no nosso caso, é a seguinte:
 
-​     PS C:\Users\username> git
+`PS C:\Users\username> git`
 
 A resposta do interpretador será parecida com a seguinte:
 
 #### Como usar:
 
-`git [--version] [--help] [-C <path>] [-c <name>=<value>]`
-`[--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]`
-`[-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]`
-`[--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]`
+`[--version]`
+`[--help]`
+`[-C <path>]`
+`[-c <name>=<value>]`
+`[--exec-path[=<path>]]`
+`[--html-path]`
+`[--man-path]`
+`[--info-path]`
+`[-p | --paginate | -P | --no-pager]`
+`[--no-replace-objects]`
+`[--bare]`
+`[--git-dir=<path>]`
+`[--work-tree=<path>]`
+`[--namespace=<name>]`
 `<command> [<args>]`
+
+Por exemplo:
+
+`git --version`
 
 Alguns comandos usados em várias situações:
 
