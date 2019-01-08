@@ -81,7 +81,7 @@ Alguns comandos usados em várias situações:
 
 | Comando | O que faz |
 | ------- | --------- |
-| clone          | Clone a repository into a new directory |
+| clone          | left-aligned Clone a repository into a new directory |
 | init           | Create an empty Git repository or reinitialize an existing one |
 
 
@@ -90,9 +90,9 @@ Alguns comandos usados em várias situações:
 
 
 
-| Comando        | O que faz |
+| Comando        | left-aligned O que faz |
 |----------------|-----------|
-| add            |  Add file contents to the index |
+| add            | Add file contents to the index |
 | mv             | Move or rename a file, a directory, or a symlink |
 | reset          | Reset current HEAD to the specified state |
 | rm 	           | Remove files from the working tree and from the index |
@@ -149,5 +149,5 @@ Alguns comandos usados em várias situações:
 
 
 
-***Obs***.: Criar tabelas com ***Markdown*** é a coisa mais non-aesthetic que eu já fiz. Enfim, futuras edições serão feitas, bem como a tradução do conteúdo em inglês. 
+***Obs***.: Criar tabelas com ***Markdown*** é a coisa mais non-aesthetic que eu já fiz. Enfim, futuras edições serão feitas, bem como a tradução do conteúdo em inglês. Ainda testando!
 
