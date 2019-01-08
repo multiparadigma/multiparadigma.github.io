@@ -90,12 +90,12 @@ Alguns comandos usados em várias situações:
 
 
 
-| Comando        | left-aligned O que faz |
-|----------------|-----------|
-| add            | Add file contents to the index |
-| mv             | Move or rename a file, a directory, or a symlink |
-| reset          | Reset current HEAD to the specified state |
-| rm 	           | Remove files from the working tree and from the index |
+| Comando | O que faz |
+|---|---|
+| add | Add file contents to the index |
+| mv  | Move or rename a file, a directory, or a symlink |
+| reset | Reset current HEAD to the specified state |
+| rm | Remove files from the working tree and from the index |
 
 
 
@@ -104,19 +104,19 @@ Alguns comandos usados em várias situações:
 
 
 | Comando        | o que faz |
-|----------------|-----------|
-| bisect         | Use binary search to find the commit that introduced a bug |
-| grep           | Print lines matching a pattern |
-| log            | Show commit logs |
-| show           | Show various types of objects |
-| status         | Show the working tree status |
+|---|---|
+| bisect | Use binary search to find the commit that introduced a bug |
+| grep | Print lines matching a pattern |
+| log | Show commit logs |
+| show | Show various types of objects |
+| status | Show the working tree status |
 
 
 
 ### grow, mark and tweak your common history
 
 
-
+| Nada aqui | viu?|
 | Comando        | O que faz |
 |----------------|-----------|
 | branch         | List, create, or delete branches |
