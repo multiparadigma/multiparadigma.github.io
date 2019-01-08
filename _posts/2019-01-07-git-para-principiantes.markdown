@@ -80,9 +80,9 @@ Alguns comandos usados em várias situações:
 
 
 | Comando | O que faz |
-| ------- | --------- |
-| clone          | left-aligned Clone a repository into a new directory |
-| init           | Create an empty Git repository or reinitialize an existing one |
+| --- | --- |
+| clone | Clone a repository into a new directory |
+| init  | Create an empty Git repository or reinitialize an existing one |
 
 
 
