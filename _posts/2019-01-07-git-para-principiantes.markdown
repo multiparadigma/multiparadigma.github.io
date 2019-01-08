@@ -75,6 +75,16 @@ Alguns comandos usados em várias situações:
 | clone          | Clone a repository into a new directory |
 | init           | Create an empty Git repository or reinitialize an existing one |
 
+`
+
+<dl>
+    <dt>clone</dt>
+    <dd>Clone a repository into a new directory</dd>
+    <dt>init</dt>
+    <dd>Create an empty Git repository or reinitialize an existing one</dd>
+</dl>
+
+`
 
 ### Trabalhando numa mudança atual
 
@@ -128,6 +138,6 @@ Alguns comandos usados em várias situações:
 
 
 
-***Obs***.: Criar tabelas com ***Markdown*** é a coisa mais non-aesthetic que eu já fiz. Enfim, futuras edições serão feitas, bem como a tradução do conteúdo em inglês. Outra alteração
+***Obs***.: Criar tabelas com ***Markdown*** é a coisa mais non-aesthetic que eu já fiz. Enfim, futuras edições serão feitas, bem como a tradução do conteúdo em inglês. 
 
 `
