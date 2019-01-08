@@ -1,3 +1,11 @@
+---
+layout: post
+title: Git para principiantes
+subtitle: "Texto sujeito à revisão"
+date: 2019-01-07 15:15:00
+categories: [blogging]
+---
+
 # Git para principiantes
 
 Vamos começar a série "**Yet Another Tutorial**". Para hoje, que tal aprender um pouco mais sobre um software que orbita a vida de (quase) todo programador.
@@ -64,9 +72,8 @@ A resposta do interpretador será parecida com a seguinte:
 
 Por exemplo:
 
-`
-git --version
-`
+` git --version `,
+` git --help `,
 
 Alguns comandos usados em várias situações:
 
@@ -86,7 +93,7 @@ Alguns comandos usados em várias situações:
 | add            |  Add file contents to the index |
 | mv             | Move or rename a file, a directory, or a symlink |
 | reset          | Reset current HEAD to the specified state |
-| rm 	         | Remove files from the working tree and from the index |
+| rm 	           | Remove files from the working tree and from the index |
 
 ### Examine o histórico e o estado 
 
@@ -111,7 +118,7 @@ Alguns comandos usados em várias situações:
 | diff           | Show changes between commits, commit and working tree, etc |
 | merge          | Join two or more development histories together |
 | rebase         | Reaplly commits on top of another base tip |
-| tag          | Create, list, delete or verify a tag object signed with GPG |
+| tag            | Create, list, delete or verify a tag object signed with GPG |
 
 
 ### Colabore (Veja também: git help workflows)
