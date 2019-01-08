@@ -70,8 +70,8 @@ A resposta do interpretador será parecida com a seguinte:
 
 Por exemplo:
 
-` git --version `
-` git --help `
+- ` git --version `
+- ` git --help `
 
 Alguns comandos usados em várias situações:
 
@@ -149,5 +149,5 @@ Alguns comandos usados em várias situações:
 
 
 
-***Obs***.: Criar tabelas com ***Markdown*** é a coisa mais non-aesthetic que eu já fiz. Enfim, futuras edições serão feitas, bem como a tradução do conteúdo em inglês. Ainda testando!
+***Obs***.: Criar tabelas com ***Markdown*** é a coisa mais non-aesthetic que eu já fiz. Enfim, futuras edições serão feitas, bem como a tradução do conteúdo em inglês.
 
