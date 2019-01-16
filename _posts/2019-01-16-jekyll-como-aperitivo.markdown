@@ -22,12 +22,15 @@ Verifique se os softwares necessários estão instalados:
 ```
 ruby -v
 ```
+
 ```
 gcc -v
 ```
+
 ```
 g++ -v
 ```
+
 ```
 make -v​	
 ```
@@ -65,14 +68,15 @@ No diretório de sua escolha, digite o seguinte:
 jekyll new nome-do-seu-blog
 ```
 
+
 ```
 cd nome-do-seu-blog
 ```
 
+
 ```
 bundle exec jekyll serve 
 ```
-
 
 
 Nos próximos passos, aprenderemos como hospedar o blog criado usando o serviço disponibilizado pelo GitHub, e, em seguida, aprenderemos com mais calma um pouco mais sobre a estrutura de diretórios que foram automaticamente geradas pelo Jekyll.
