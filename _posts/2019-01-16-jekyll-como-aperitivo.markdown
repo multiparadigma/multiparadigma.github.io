@@ -12,21 +12,34 @@ Agora é o momento para você desenvolver um pouco mais de paixão pela arte de 
 ## Alguns requisitos padrões para usar Jekyll
 
 1. Ambiente Ruby (2.2.5) de desenvolvimento
-	
+2. Gerenciador de pacotes (RubyGems)
+3. gcc/Make
 
-Antes de instalar qualquer coisa, verifique:
-	
+
+Verifique se os softwares necessários estão instalados:
+
+
 ```
 ruby -v
 ```
+```
+gcc -v
+```
+```
+g++ -v
+```
+```
+make -v​	
+```
 
-Para instalar no Fedora:
+
+Para instalar Ruby no Fedora:
 
 ```
 sudo dnf install ruby ruby-devel @development-tools
 ```
 
-Para instalar no Debian:
+Para instalar Ruby no Debian:
 
 ```
 sudo apt-get install ruby-full build-essential
@@ -37,33 +50,16 @@ Ubuntu:
 sudo apt-get install ruby-full build-essential zlib1g-dev
 ```
 
-2. Gerenciador de pacotes (RubyGems)
-
-```
-gem -
-```
-
-3. gcc/Make
-
-Verifique se os seguintes softwares estão instalados, e caso não, instale-os:
-
-```
-gcc -v
-```
-```
-g++ -v
-```
-```
-make -v
-```
 
 ## Como instalar a ferramenta Jekyll
+
 
 ```
 gem install jekyll bundler
 ```
 
 No diretório de sua escolha, digite o seguinte:
+
 
 ```
 jekyll new nome-do-seu-blog
@@ -77,3 +73,6 @@ cd nome-do-seu-blog
 bundle exec jekyll serve 
 ```
 
+
+
+Nos próximos passos, aprenderemos como hospedar o blog criado usando o serviço disponibilizado pelo GitHub, e, em seguida, aprenderemos com mais calma um pouco mais sobre a estrutura de diretórios que foram automaticamente geradas pelo Jekyll.
