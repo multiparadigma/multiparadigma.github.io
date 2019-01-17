@@ -3,7 +3,7 @@ layout: post
 title: Git para principiantes
 subtitle: "Texto sujeito à revisão"
 date: 2019-01-07 15:15:00
-categories: [blogging]
+categories: [blogging, ferramentas, git]
 ---
 
 # Git para principiantes
@@ -75,7 +75,7 @@ Por exemplo:
 
 Alguns comandos usados em várias situações:
 
-### Iniciando uma área de trabalho 
+### Iniciando uma área de trabalho
 
 
 
@@ -99,7 +99,7 @@ Alguns comandos usados em várias situações:
 
 
 
-### Examine o histórico e o estado 
+### Examine o histórico e o estado
 
 
 
@@ -150,4 +150,3 @@ Alguns comandos usados em várias situações:
 
 
 ***Obs***.: Criar tabelas com ***Markdown*** é a coisa mais non-aesthetic que eu já fiz. Enfim, futuras edições serão feitas, bem como a tradução do conteúdo em inglês.
-
