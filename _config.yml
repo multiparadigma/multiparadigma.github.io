@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://multiparadigma.github.io/" # the base hostname & protocol for your site
 
 author:
-  fullname: multiparadigma
+  fullname: jm
   #googleplus:
   github: multiparadigma
   # twitter:
