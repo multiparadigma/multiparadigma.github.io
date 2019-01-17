@@ -3,7 +3,7 @@ layout: post
 title: Jekyll como aperitivo
 subtitle: "Em busca de dopamina!"
 date: 2019-01-16 21:50:00
-categories: [ferramentas]
+categories: [ferramentas, jekyll]
 ---
 
 # Jekyll como aperitivo
@@ -44,7 +44,7 @@ make -v​
 
 Para instalar Ruby no Fedora:
 
-```
+```bash
 sudo dnf install ruby ruby-devel @development-tools
 ```
 
@@ -53,7 +53,7 @@ Para instalar Ruby no Debian:
 ```
 sudo apt-get install ruby-full build-essential
 ```
-Ubuntu:
+Para instalar Ruby no Ubuntu:
 
 ```
 sudo apt-get install ruby-full build-essential zlib1g-dev

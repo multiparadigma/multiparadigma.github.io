@@ -3,7 +3,7 @@ layout: post
 title: Git para principiantes
 subtitle: "Texto sujeito à revisão"
 date: 2019-01-07 15:15:00
-categories: [blogging, ferramentas, git]
+categories: [ferramentas, git]
 ---
 
 # Git para principiantes
