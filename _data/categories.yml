@@ -9,3 +9,9 @@
 
 - slug: blogging
   name: Blogging
+
+- slug: git
+  name: Git
+
+- slug: jekyll
+  name: Jekyll
