@@ -38,7 +38,7 @@ g++ -v
 ```
 
 ```
-make -v​	
+make -v​
 ```
 
 
@@ -81,8 +81,8 @@ cd nome-do-seu-blog
 
 
 ```
-bundle exec jekyll serve 
+bundle exec jekyll serve
 ```
 
 
-Nos próximos passos, aprenderemos como hospedar o blog criado usando o serviço disponibilizado pelo GitHub, e, em seguida, aprenderemos com mais calma um pouco mais sobre a estrutura de diretórios que foram automaticamente geradas pelo Jekyll.
+Nos próximos passos, aprenderemos como hospedar o blog criado usando o serviço disponibilizado pelo GitHub, e, em seguida, aprenderemos com mais calma um pouco mais sobre a estrutura do diretório que foi automaticamente gerada pelo Jekyll.
