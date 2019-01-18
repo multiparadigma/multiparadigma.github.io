@@ -3,7 +3,7 @@ layout: post
 title: Git para principiantes
 subtitle: "Texto sujeito à revisão"
 date: 2019-01-07 15:15:00
-categories: [ferramentas, git]
+categoria: [ferramentas, git]
 ---
 
 # Git para principiantes
@@ -78,16 +78,13 @@ Alguns comandos usados em várias situações:
 ### Iniciando uma área de trabalho
 
 
-
 | Comando | O que faz |
 | :--- | :--- |
 | clone | Clone a repository into a new directory |
 | init  | Create an empty Git repository or reinitialize an existing one |
 
 
-
 ### Trabalhando numa mudança atual
-
 
 
 | Comando | O que faz |
@@ -98,9 +95,7 @@ Alguns comandos usados em várias situações:
 | rm | Remove files from the working tree and from the index |
 
 
-
 ### Examine o histórico e o estado
-
 
 
 | Comando        | o que faz |
@@ -112,9 +107,7 @@ Alguns comandos usados em várias situações:
 | status | Show the working tree status |
 
 
-
 ### grow, mark and tweak your common history
-
 
 
 | Comando        | O que faz |
@@ -128,9 +121,7 @@ Alguns comandos usados em várias situações:
 | tag            | Create, list, delete or verify a tag object signed with GPG |
 
 
-
 ### Colabore (Veja também: git help workflows)
-
 
 
 | Comando        | O que faz |
@@ -140,13 +131,8 @@ Alguns comandos usados em várias situações:
 | push           | Update remote refs along with associated objects |
 
 
-
 ### Detalhes adicionais
 
-
-
 `git help -a` e `git help -g`' retornarão subcomandos disponíveis e alguns guias conceituais. Veja também `git help <comando>` ou `git help <conceito>` para ler sobre um específico subcomando ou conceito.
-
-
 
 ***Obs***.: Criar tabelas com ***Markdown*** é a coisa mais non-aesthetic que eu já fiz. Enfim, futuras edições serão feitas, bem como a tradução do conteúdo em inglês.
