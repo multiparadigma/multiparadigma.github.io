@@ -4,6 +4,7 @@ title: Git para principiantes
 subtitle: "Texto sujeito à revisão"
 date: 2019-01-07 15:15:00
 categoria: [ferramentas, git]
+comments: true
 ---
 
 # Git para principiantes

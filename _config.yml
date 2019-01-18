@@ -26,5 +26,3 @@ exclude: ["README.md", "README.html", "vendor"]
 highlighter: null
 markdown: kramdown
 permalink: /:title
-
-comments: true
