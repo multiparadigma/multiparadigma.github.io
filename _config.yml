@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: multiparadigma
 description:
   Programação para iniciantes
@@ -23,6 +23,6 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 exclude: ["README.md", "README.html", "vendor"]
 
 # Build settings
-highlighter: null
+highlighter: highlight.js
 markdown: kramdown
 permalink: /:title
