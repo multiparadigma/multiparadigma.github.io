@@ -9,8 +9,7 @@ url: "https://multiparadigma.github.io/" # the base hostname & protocol for your
 author:
   fullname: jm
   github: multiparadigma
-  # twitter:
-  disqus: multiparadigma
+
 
 google_analytics: 'UA-131857273-1'
 
